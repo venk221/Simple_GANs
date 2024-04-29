@@ -2,7 +2,7 @@
 
 This repository contains a PyTorch implementation of a Generative Adversarial Network (GAN) for generating synthetic images of handwritten digits resembling the MNIST dataset. The project focuses on leveraging unsupervised learning techniques to create realistic images through the adversarial training of a generator and discriminator network.
 
-# Project Overview
+## Project Overview
 Generative Adversarial Networks (GANs) are a powerful deep learning approach for generating synthetic data that closely resembles real data distributions. This project aims to train a GAN model to generate images of handwritten digits that are visually indistinguishable from the MNIST dataset.
 The GAN architecture consists of two main components:
 

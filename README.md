@@ -46,6 +46,9 @@ pip install torch numpy matplotlib
 ## Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
+## Results
+
+![image](https://github.com/venk221/Simple_GANs/blob/main/generated_images.jpg)
 
 ## Acknowledgments
 
